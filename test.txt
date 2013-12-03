@@ -2,3 +2,5 @@ test01
 изменения в основной ветке
 changes for hot fix
 another one chane
+
+was added string
