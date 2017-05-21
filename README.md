@@ -1,4 +1,0 @@
-education
-=========
-
-for testing git
